@@ -36,7 +36,7 @@ const server = new ApolloServer({
 });
 
 // await server.start()
-server.applyMiddleware({app, path: '/'})
+server.applyMiddleware({app, path: '/https://sergeyshapliuk.github.io/shop-test/'})
 httpServer.listen({port}, () =>
     console.log(`Server listening on localhost:4000${server.graphqlPath}`))
 // }
