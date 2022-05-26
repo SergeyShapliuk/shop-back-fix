@@ -5,8 +5,8 @@ import {ApolloServer} from 'apollo-server-express';
 
 const express = require("express")
 // const cors = require("cors")
-const app = express()
-const httpServer = createServer(app)
+// const app = express()
+//const httpServer = createServer(app)
 // const path = require("path")
 const port = process.env.PORT || 4000
 // const whitelist = ["http://localhost:4000"]
