@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87119ec6-2a7a-47f0-b626-ecbeead10998" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zalOe5ty9Y8vXTdRH9E9ed3UUn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="F:\it-incubator-todolist-ts-05\src\EditAbleSpan.tsx" />
+      <recent name="F:\it-incubator-todolist-ts-05\src\AddItemForm.tsx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\it-incubator-todolist-ts-05\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.sum of first N numbers">
+    <configuration name="get Square Only Of Positive Integers" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/lesson_8.test.ts" />
+      <test-names>
+        <test-name value="get Square Only Of Positive Integers" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get Sum " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/lesson_8.test.ts" />
+      <test-names>
+        <test-name value="get Sum " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="is Even Sum Greater" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/lesson_8.test.ts" />
+      <test-names>
+        <test-name value="is Even Sum Greater" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="sum of first N numbers" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/lesson_8.test.ts" />
+      <test-names>
+        <test-name value="sum of first N numbers" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="Jest.sum of first N numbers" />
+        <item itemvalue="Jest.get Square Only Of Positive Integers" />
+        <item itemvalue="Jest.is Even Sum Greater" />
+        <item itemvalue="Jest.get Sum " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87119ec6-2a7a-47f0-b626-ecbeead10998" name="Changes" comment="" />
+      <created>1634394050910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634394050910</updated>
+      <workItem from="1634394052997" duration="7770000" />
+      <workItem from="1634479080110" duration="9000" />
+      <workItem from="1634656075993" duration="17000" />
+      <workItem from="1634896799047" duration="7100000" />
+      <workItem from="1635144584809" duration="4448000" />
+      <workItem from="1635149166529" duration="1572000" />
+      <workItem from="1635150758810" duration="9257000" />
+      <workItem from="1635239493726" duration="775000" />
+      <workItem from="1635260836257" duration="702000" />
+      <workItem from="1636470494522" duration="8000" />
+      <workItem from="1636959610539" duration="34000" />
+      <workItem from="1637773468421" duration="7228000" />
+      <workItem from="1637861572783" duration="2051000" />
+      <workItem from="1653550135018" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
