@@ -6,7 +6,6 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/main.js",
-    "postinstall": "ng build",
     "dev": "concurrently \"tsc -w\" \"nodemon dist/main.js\""
   },
   "keywords": [],
