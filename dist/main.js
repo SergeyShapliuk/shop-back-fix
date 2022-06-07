@@ -12,7 +12,7 @@ var server = new apollo_server_1.ApolloServer({
     introspection: true,
     playground: true,
 });
-server.listen().then(function (_a) {
-    var url = _a.url;
-    console.log("\uD83D\uDE80  Server ready at " + url);
+const PORT = process.env.PORT || 4000;
+server.listen(PORT,()=> {
+    console.log("\uD83D\uDE80  Server ready at ${PORT");
 });
