@@ -8,7 +8,9 @@ var schema_1 = __importDefault(require("./schema"));
 var resolvers_1 = __importDefault(require("./resolvers"));
 var server = new apollo_server_1.ApolloServer({
     typeDefs: schema_1.default,
-    resolvers: resolvers_1.default
+    resolvers: resolvers_1.default,
+    introspection: true,
+    playground: true,
 });
 server.listen().then(function (_a) {
     var url = _a.url;
