@@ -4,8 +4,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var apollo_server_1 = require("apollo-server-express");
-const express = require('express');
-const app = express();
 var schema_1 = __importDefault(require("./schema"));
 var resolvers_1 = __importDefault(require("./resolvers"));
 var server = new apollo_server_1.ApolloServer({
@@ -13,10 +11,6 @@ var server = new apollo_server_1.ApolloServer({
     resolvers: resolvers_1.default,
     introspection: true,
     playground: true,
-});
-server.applyMiddleware({ app });
-app.get('/', (req, res) => {
-  res.send('hello');
 });
 const PORT = process.env.PORT || 4000;
 server.listen(PORT,()=> {
