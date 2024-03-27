@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/main.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "start": "ts-node src/main.ts",
@@ -17,6 +18,7 @@
     "typescript": "^4.2.4"
   },
   "devDependencies": {
+    "@types/node": "^20.11.30",
     "concurrently": "^6.0.2",
     "nodemon": "^2.0.7",
     "ts-node": "^10.9.2"
