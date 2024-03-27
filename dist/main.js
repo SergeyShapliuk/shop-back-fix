@@ -12,9 +12,7 @@ var server = new apollo_server_1.ApolloServer({
     introspection: true,
     playground: true,
 });
-server.listen({ port: process.env.PORT || 4000 }).then(({ url }) => {
-  console.log(`
-      Server is ready at ${url}
-      Query at https://studio.apollographql.com/dev
-  `);
+server.listen({ port: process.env.PORT || 4000 }).then(function (_a) {
+    var url = _a.url;
+    console.log("\n      Server is ready at " + url + "\n      Query at https://studio.apollographql.com/dev\n  ");
 });
