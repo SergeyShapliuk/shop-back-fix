@@ -3,24 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/main.ts",
-  "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node src/main.ts",
+    "start": "node dist/main.js",
     "dev": "concurrently \"tsc -w\" \"nodemon dist/main.js\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.23.0",
-    "graphql": "^15.5.0",
-    "typescript": "^4.2.4"
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1",
+    "typescript": "^5.4.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
-    "concurrently": "^6.0.2",
-    "nodemon": "^2.0.7",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.0",
     "ts-node": "^10.9.2"
   },
   "engines": {

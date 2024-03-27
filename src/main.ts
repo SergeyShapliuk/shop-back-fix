@@ -6,7 +6,7 @@ const server = new ApolloServer({
     typeDefs: typeDefs,
     resolvers: resolvers,
     introspection: true,
-    playground: true,
+    // playground: true,
 });
 server.listen({ port: process.env.PORT || 4000 }).then(({ url }) => {
   console.log(`

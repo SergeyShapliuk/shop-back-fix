@@ -6,5 +6,5 @@ var Category;
     Category["all"] = "all";
     Category["clothes"] = "clothes";
     Category["tech"] = "tech";
-})(Category = exports.Category || (exports.Category = {}));
+})(Category || (exports.Category = Category = {}));
 ;

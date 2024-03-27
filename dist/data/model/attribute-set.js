@@ -5,7 +5,7 @@ var AttributeType;
 (function (AttributeType) {
     AttributeType["text"] = "text";
     AttributeType["swatch"] = "swatch";
-})(AttributeType = exports.AttributeType || (exports.AttributeType = {}));
+})(AttributeType || (exports.AttributeType = AttributeType = {}));
 var AttributeSet = /** @class */ (function () {
     function AttributeSet(name) {
         this.name = name;
